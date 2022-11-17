@@ -1,6 +1,6 @@
 {
   "heading": "Indice synthétique de fécondité, 2020",
-  "subheading": "Taux de fécondité total mesuré par les naissances vivantes par femme au cours de sa vie jusqu'à ses années de procréation.",
+  "subheading": "Le nombre moyen de naissances vivantes qui surviendraient au cours de la vie d'une femme si elle devait vivre et terminer ses années de procréation",
   "legend1": "Pas de données disponibles",
   "tooltip1": "par femme",
   "textSourceDescription": "La source",
@@ -8,5 +8,5 @@
   "textNoteDescription": "Noter",
   "textNote": "Eurostat est l'office statistique de l'Union européenne (UE), situé à Luxembourg. Sa mission est de fournir à l'UE des statistiques au niveau européen permettant des comparaisons entre pays et régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fr"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

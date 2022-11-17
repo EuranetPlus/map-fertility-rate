@@ -1,12 +1,12 @@
 {
   "heading": "Stopnja skupne rodnosti, 2020",
-  "subheading": "Skupna stopnja rodnosti, merjena z živorojenimi ženskami v njenem življenju do rodnih let.",
+  "subheading": "Povprečno število živorojenih otrok, ki bi se zgodilo v življenju ženske, če bi živela in dopolnila rodna leta",
   "legend1": "Ni podatkov",
   "tooltip1": "na žensko",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurostat je statistični urad Evropske unije (EU) s sedežem v Luksemburgu. Njegova naloga je zagotoviti EU statistične podatke na evropski ravni, ki omogočajo primerjave med državami in regijami.",
+  "textNote": "Eurostat je statistični urad Evropske unije (EU) s sedežem v Luksemburgu. Njegova naloga je zagotoviti EU statistike na evropski ravni, ki omogočajo primerjave med državami in regijami.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
