@@ -1,12 +1,12 @@
 {
-  "heading": "Total fertility rate, 2020",
-  "subheading": "The average number of live births that would occur during a woman's lifetime if she were to live through and complete her childbearing years",
+  "heading": "Total fertility rate in Europe in 2020",
+  "subheading": "European Union average across 27 countries: 1.50 live births per woman.",
   "legend1": "No data available",
   "tooltip1": "per woman",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat is the statistical office of the European Union (EU), situated in Luxembourg. Its task is to provide the EU with statistics at a European level that enable comparisons between countries and regions.",
+  "textNote": "The average number of live births that would occur during a woman's lifetime if she were to live through and complete her childbearing years.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
