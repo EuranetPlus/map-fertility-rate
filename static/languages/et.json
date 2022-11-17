@@ -6,7 +6,7 @@
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu (EL) statistikaamet, mis asub Luksemburgis. Selle ülesanne on pakkuda ELile Euroopa tasandi statistikat, mis võimaldab riikide ja piirkondade võrdlusi.",
+  "textNote": "Eurostat on Euroopa Liidu (EL) statistikaamet, mis asub Luksemburgis. Selle ülesanne on pakkuda ELile Euroopa tasandi statistikat, mis võimaldab riikide ja piirkondade vahel võrrelda.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

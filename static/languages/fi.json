@@ -6,7 +6,7 @@
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Merkintä",
-  "textNote": "Eurostat on Euroopan unionin (EU) tilastotoimisto, joka sijaitsee Luxemburgissa. Sen tehtävänä on tarjota EU:lle eurooppalaisen tason tilastoja, jotka mahdollistavat maiden ja alueiden vertailun.",
+  "textNote": "Eurostat on Euroopan unionin (EU) tilastotoimisto, joka sijaitsee Luxemburgissa. Sen tehtävänä on tarjota EU:lle Euroopan tason tilastoja, jotka mahdollistavat maiden ja alueiden vertailun.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fi"
 }
