@@ -1,12 +1,12 @@
 {
-  "heading": "Kokonaishedelmällisyysluku, 2020",
-  "subheading": "Keskimääräinen elävänä syntyneiden määrä, joka tapahtuisi naisen elinaikana, jos hän eläisi ja täytti synnytysvuotensa",
+  "heading": "Kokonaishedelmällisyysluku Euroopassa vuonna 2020",
+  "subheading": "Euroopan unionin keskiarvo 27 maassa: 1,50 elävänä syntynyttä naista kohti.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "naista kohden",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Merkintä",
-  "textNote": "Eurostat on Euroopan unionin (EU) tilastotoimisto, joka sijaitsee Luxemburgissa. Sen tehtävänä on tarjota EU:lle Euroopan tason tilastoja, jotka mahdollistavat maiden ja alueiden vertailun.",
+  "textNote": "Keskimääräinen elävänä syntyneiden määrä, joka syntyisi naisen elinaikana, jos hän eläisi ja täytti synnytysvuotensa.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fi"
 }

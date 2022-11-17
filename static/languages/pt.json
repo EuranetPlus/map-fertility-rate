@@ -1,12 +1,12 @@
 {
-  "heading": "Taxa de fertilidade total, 2020",
-  "subheading": "O número médio de nascidos vivos que ocorreriam durante a vida de uma mulher se ela sobrevivesse e completasse seus anos férteis",
+  "heading": "Taxa de fecundidade total na Europa em 2020",
+  "subheading": "Média da União Europeia em 27 países: 1,50 nascidos vivos por mulher.",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "por mulher",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Eurostat é o escritório de estatística da União Européia (UE), situado em Luxemburgo. A sua missão é fornecer à UE estatísticas a nível europeu que permitam comparações entre países e regiões.",
+  "textNote": "O número médio de nascidos vivos que ocorreriam durante a vida de uma mulher se ela vivesse e completasse seus anos férteis.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

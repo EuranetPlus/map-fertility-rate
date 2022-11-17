@@ -1,12 +1,12 @@
 {
-  "heading": "Stopa ukupnog fertiliteta, 2020",
-  "subheading": "Prosječan broj živorođene djece koji bi se dogodio tijekom života žene ako bi doživjela i dovršila svoje godine rađanja",
+  "heading": "Ukupna stopa fertiliteta u Europi 2020",
+  "subheading": "Prosjek Europske unije u 27 zemalja: 1,50 živorođene djece po ženi.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "po ženi",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije (EU) sa sjedištem u Luksemburgu. Njegova je zadaća osigurati EU statistiku na europskoj razini koja omogućuje usporedbu između zemalja i regija.",
+  "textNote": "Prosječan broj živorođene djece koji bi se dogodio tijekom života žene ako bi doživjela i dovršila godine rađanja.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

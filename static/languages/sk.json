@@ -1,12 +1,12 @@
 {
-  "heading": "Celková plodnosť, 2020",
-  "subheading": "Priemerný počet živonarodených detí, ku ktorým by došlo počas života ženy, ak by prežila a dokončila svoj plodný rok",
+  "heading": "Celková miera pôrodnosti v Európe v roku 2020",
+  "subheading": "Priemer Európskej únie v 27 krajinách: 1,50 živonarodených detí na ženu.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "na ženu",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je štatistický úrad Európskej únie (EÚ) so sídlom v Luxemburgu. Jeho úlohou je poskytovať EÚ štatistiky na európskej úrovni, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
+  "textNote": "Priemerný počet živonarodených detí, ku ktorým by došlo počas života ženy, ak by prežila a dokončila svoj plodný rok.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=sk"
 }

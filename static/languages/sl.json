@@ -1,12 +1,12 @@
 {
-  "heading": "Stopnja skupne rodnosti, 2020",
-  "subheading": "Povprečno število živorojenih otrok, ki bi se zgodilo v življenju ženske, če bi živela in dopolnila rodna leta",
+  "heading": "Skupna stopnja rodnosti v Evropi leta 2020",
+  "subheading": "Povprečje Evropske unije v 27 državah: 1,50 živorojenih otrok na žensko.",
   "legend1": "Ni podatkov",
   "tooltip1": "na žensko",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurostat je statistični urad Evropske unije (EU) s sedežem v Luksemburgu. Njegova naloga je zagotoviti EU statistike na evropski ravni, ki omogočajo primerjave med državami in regijami.",
+  "textNote": "Povprečno število živorojenih otrok, ki bi se zgodilo v življenju ženske, če bi živela in dopolnila rodna leta.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

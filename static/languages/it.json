@@ -1,12 +1,12 @@
 {
-  "heading": "Tasso di fecondità totale, 2020",
-  "subheading": "Il numero medio di nati vivi che si verificherebbero durante la vita di una donna se dovesse vivere e completare i suoi anni fertili",
+  "heading": "Tasso di fecondità totale in Europa nel 2020",
+  "subheading": "Media dell'Unione europea in 27 paesi: 1,50 nati vivi per donna.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "per donna",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat è l'ufficio statistico dell'Unione europea (UE), con sede a Lussemburgo. Il suo compito è fornire all'UE statistiche a livello europeo che consentano confronti tra paesi e regioni.",
+  "textNote": "Il numero medio di nati vivi che si verificherebbero durante la vita di una donna se dovesse vivere e completare i suoi anni fertili.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

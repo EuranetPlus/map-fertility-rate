@@ -1,12 +1,12 @@
 {
-  "heading": "Rata ta' fertilità totali, 2020",
-  "subheading": "In-numru medju ta’ twelid ħaj li jseħħ matul ħajjitha mara kieku kellha tgħix u tlesti s-snin ta’ tqala tagħha",
+  "heading": "Rata totali tal-fertilità fl-Ewropa fl-2020",
+  "subheading": "Medja tal-Unjoni Ewropea fis-27 pajjiż: 1.50 twelid ħaj għal kull mara.",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "għal kull mara",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "L-Eurostat huwa l-uffiċċju tal-istatistika tal-Unjoni Ewropea (UE), li jinsab fil-Lussemburgu. Il-kompitu tiegħu huwa li jipprovdi lill-UE statistika fuq livell Ewropew li tippermetti tqabbil bejn il-pajjiżi u r-reġjuni.",
+  "textNote": "In-numru medju ta' twelid ħaj li jseħħ matul il-ħajja ta' mara li kieku kellha tgħix u tlesti s-snin ta' tqala tagħha.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

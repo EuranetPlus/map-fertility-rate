@@ -1,12 +1,12 @@
 {
-  "heading": "Kopējais dzimstības rādītājs, 2020. gads",
-  "subheading": "Vidējais dzīvi dzimušo skaits, kas notiktu sievietes dzīves laikā, ja viņa pārdzīvotu un pabeigtu savus reproduktīvos gadus",
+  "heading": "Kopējais dzimstības līmenis Eiropā 2020. gadā",
+  "subheading": "Eiropas Savienībā vidēji 27 valstīs: 1,50 dzīvi dzimušie uz vienu sievieti.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "uz vienu sievieti",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības (ES) statistikas birojs, kas atrodas Luksemburgā. Tās uzdevums ir nodrošināt ES ar Eiropas līmeņa statistiku, kas ļauj salīdzināt valstis un reģionus.",
+  "textNote": "Vidējais dzīvi dzimušo skaits, kas notiktu sievietes dzīves laikā, ja viņa pārdzīvotu un pabeigtu savus reproduktīvos gadus.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

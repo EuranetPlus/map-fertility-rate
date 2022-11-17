@@ -1,12 +1,12 @@
 {
-  "heading": "Totaal vruchtbaarheidscijfer, 2020",
-  "subheading": "Het gemiddelde aantal levendgeborenen dat tijdens het leven van een vrouw zou plaatsvinden als ze zou leven en haar vruchtbare jaren zou voltooien",
+  "heading": "Totaal vruchtbaarheidscijfer in Europa in 2020",
+  "subheading": "Gemiddelde van de Europese Unie in 27 landen: 1,50 levendgeborenen per vrouw.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "per vrouw",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie (EU), gevestigd in Luxemburg. Het heeft tot taak de EU te voorzien van statistieken op Europees niveau die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Het gemiddelde aantal levendgeborenen dat tijdens het leven van een vrouw zou plaatsvinden als ze haar vruchtbare jaren zou doormaken en voltooien.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

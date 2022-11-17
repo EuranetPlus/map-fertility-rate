@@ -1,12 +1,12 @@
 {
-  "heading": "Indice synthétique de fécondité, 2020",
-  "subheading": "Le nombre moyen de naissances vivantes qui surviendraient au cours de la vie d'une femme si elle devait vivre et terminer ses années de procréation",
+  "heading": "Indice synthétique de fécondité en Europe en 2020",
+  "subheading": "Moyenne de l'Union européenne dans 27 pays : 1,50 naissances vivantes par femme.",
   "legend1": "Pas de données disponibles",
   "tooltip1": "par femme",
   "textSourceDescription": "La source",
   "textSource": "Eurostat",
   "textNoteDescription": "Noter",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne (UE), situé à Luxembourg. Sa mission est de fournir à l'UE des statistiques au niveau européen permettant des comparaisons entre pays et régions.",
+  "textNote": "Le nombre moyen de naissances vivantes qui se produirait au cours de la vie d'une femme si elle devait vivre et achever ses années de procréation.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fr"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

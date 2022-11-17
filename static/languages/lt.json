@@ -1,12 +1,12 @@
 {
-  "heading": "Bendras gimstamumo rodiklis, 2020 m",
-  "subheading": "Vidutinis gyvų gimimų skaičius per visą moters gyvenimą, jei ji išgyventų ir baigtų vaisingus metus",
+  "heading": "Bendras gimstamumo rodiklis Europoje 2020 m",
+  "subheading": "Europos Sąjungos vidurkis 27 šalyse: vienai moteriai tenka 1,50 gyvų gimimų.",
   "legend1": "Nėra duomenų",
   "tooltip1": "vienai moteriai",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos (ES) statistikos tarnyba, įsikūrusi Liuksemburge. Jos užduotis – teikti ES Europos lygmens statistiką, leidžiančią palyginti šalis ir regionus.",
+  "textNote": "Vidutinis gyvų gimimų skaičius per visą moters gyvenimą, jei ji išgyventų ir baigtų vaisingumą.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

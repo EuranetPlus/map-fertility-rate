@@ -1,12 +1,12 @@
 {
-  "heading": "Teljes termékenységi ráta, 2020",
-  "subheading": "Az élveszületések átlagos száma, amely egy nő élete során bekövetkezne, ha túlélné és befejezné gyermekvállalási éveit",
+  "heading": "A teljes termékenységi ráta Európában 2020-ban",
+  "subheading": "Európai Uniós átlag 27 országban: 1,50 élveszületés jut nőre.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "nőnként",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurostat az Európai Unió (EU) statisztikai hivatala, amely Luxemburgban található. Feladata, hogy az EU-t olyan európai szintű statisztikákkal látja el, amelyek lehetővé teszik az országok és régiók összehasonlítását.",
+  "textNote": "Az élveszületések átlagos száma, amely egy nő élete során bekövetkezne, ha túlélné és befejezné gyermekvállalási éveit.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

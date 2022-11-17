@@ -1,12 +1,12 @@
 {
-  "heading": "Summaarne sündimuskordaja, 2020",
-  "subheading": "Keskmine elussündide arv, mis sünniks naise elu jooksul, kui ta elaks üle ja lõpetaks oma fertiilsusaasta",
+  "heading": "Summaarne sündimuskordaja Euroopas 2020. aastal",
+  "subheading": "Euroopa Liidu keskmine 27 riigis: 1,50 elussündi naise kohta.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "naise kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu (EL) statistikaamet, mis asub Luksemburgis. Selle ülesanne on pakkuda ELile Euroopa tasandi statistikat, mis võimaldab riikide ja piirkondade vahel võrrelda.",
+  "textNote": "Keskmine elussündide arv, mis sünniks naise eluajal, kui ta elaks üle ja lõpetaks oma sünnitusaastad.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

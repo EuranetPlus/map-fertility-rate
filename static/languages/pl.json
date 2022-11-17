@@ -1,12 +1,12 @@
 {
-  "heading": "Całkowity współczynnik dzietności, 2020 r",
-  "subheading": "Średnia liczba żywych urodzeń, które miałyby miejsce w ciągu życia kobiety, gdyby przeżyła i ukończyła wiek rozrodczy",
+  "heading": "Całkowity współczynnik dzietności w Europie w 2020 r",
+  "subheading": "Średnia w Unii Europejskiej w 27 krajach: 1,50 żywych urodzeń na kobietę.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "na kobietę",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostatu",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej (UE) z siedzibą w Luksemburgu. Jej zadaniem jest dostarczanie UE statystyk na poziomie europejskim, które umożliwiają porównania między krajami i regionami.",
+  "textNote": "Średnia liczba żywych urodzeń, które miałyby miejsce w ciągu życia kobiety, gdyby przeżyła i ukończyła wiek rozrodczy.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

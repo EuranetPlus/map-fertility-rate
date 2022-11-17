@@ -1,12 +1,12 @@
 {
-  "heading": "Gesamtfruchtbarkeitsrate, 2020",
-  "subheading": "Die durchschnittliche Zahl der Lebendgeburten, die während des Lebens einer Frau eintreten würden, wenn sie ihre gebärfähigen Jahre durchleben und abschließen würde",
+  "heading": "Gesamtfruchtbarkeitsrate in Europa im Jahr 2020",
+  "subheading": "EU-Durchschnitt über 27 Länder: 1,50 Lebendgeburten pro Frau.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "pro Frau",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union (EU) mit Sitz in Luxemburg. Ihre Aufgabe ist es, der EU Statistiken auf europäischer Ebene zur Verfügung zu stellen, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textNote": "Die durchschnittliche Zahl der Lebendgeburten, die während des Lebens einer Frau eintreten würden, wenn sie ihre gebärfähigen Jahre durchleben und abschließen würde.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
