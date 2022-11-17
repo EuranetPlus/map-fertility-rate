@@ -1,12 +1,12 @@
 {
   "heading": "Summaarne sündimuskordaja, 2020",
-  "subheading": "Keskmine elussündide arv, mis sünniks naise eluajal, kui ta peaks elama ja täituma oma fertiilsusaastad",
+  "subheading": "Keskmine elussündide arv, mis sünniks naise elu jooksul, kui ta elaks üle ja lõpetaks oma fertiilsusaasta",
   "legend1": "Andmed puuduvad",
   "tooltip1": "naise kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu (EL) statistikaamet, mis asub Luksemburgis. Selle ülesanne on pakkuda ELile Euroopa tasandi statistikat, mis võimaldab riikide ja piirkondade vahel võrrelda.",
+  "textNote": "Eurostat on Euroopa Liidu (EL) statistikaamet, mis asub Luksemburgis. Selle ülesanne on pakkuda ELile Euroopa tasandi statistikat, mis võimaldab riikide ja piirkondade võrdlusi.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
