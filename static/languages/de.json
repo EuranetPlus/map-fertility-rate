@@ -1,12 +1,12 @@
 {
-  "heading": "Gesamtfruchtbarkeitsrate in Europa im Jahr 2020",
-  "subheading": "EU-Durchschnitt über 27 Länder: 1,50 Lebendgeburten pro Frau.",
+  "heading": "Gesamtfruchtbarkeitsrate in Europa im Jahr 2021",
+  "subheading": "Durchschnitt der Europäischen Union in 27 Ländern: 1,53 Lebendgeburten pro Frau.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "pro Frau",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die durchschnittliche Zahl der Lebendgeburten, die während des Lebens einer Frau eintreten würden, wenn sie ihre gebärfähigen Jahre durchleben und abschließen würde.",
+  "textNote": "Die durchschnittliche Zahl der Lebendgeburten, die im Laufe des Lebens einer Frau stattfinden würde, wenn sie ihre gebärfähigen Jahre überleben und beenden würde.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

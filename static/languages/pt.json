@@ -1,12 +1,12 @@
 {
-  "heading": "Taxa de fecundidade total na Europa em 2020",
-  "subheading": "Média da União Europeia em 27 países: 1,50 nascidos vivos por mulher.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "Taxa de fertilidade total na Europa em 2021",
+  "subheading": "Média da União Europeia em 27 países: 1,53 nados-vivos por mulher.",
+  "legend1": "Não há dados disponíveis",
   "tooltip1": "por mulher",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O número médio de nascidos vivos que ocorreriam durante a vida de uma mulher se ela vivesse e completasse seus anos férteis.",
+  "textNote": "O número médio de nascidos vivos que ocorreriam durante a vida de uma mulher se ela sobrevivesse e completasse seus anos férteis.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

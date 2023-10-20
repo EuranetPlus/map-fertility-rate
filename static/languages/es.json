@@ -1,12 +1,12 @@
 {
-  "heading": "Tasa total de fecundidad en Europa en 2020",
-  "subheading": "Media de la Unión Europea en 27 países: 1,50 nacidos vivos por mujer.",
+  "heading": "Tasa total de fertilidad en Europa en 2021",
+  "subheading": "Media de la Unión Europea en 27 países: 1,53 nacidos vivos por mujer.",
   "legend1": "Datos no disponibles",
   "tooltip1": "por mujer",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "El número promedio de nacidos vivos que ocurrirían durante la vida de una mujer si viviera y completara sus años fértiles.",
+  "textNote": "Número promedio de nacimientos vivos que ocurrirían durante la vida de una mujer si viviera y completara sus años fértiles.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Tasso di fecondità totale in Europa nel 2020",
-  "subheading": "Media dell'Unione europea in 27 paesi: 1,50 nati vivi per donna.",
+  "heading": "Tasso di fertilità totale in Europa nel 2021",
+  "subheading": "Media dell’Unione Europea in 27 paesi: 1,53 nati vivi per donna.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "per donna",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Il numero medio di nati vivi che si verificherebbero durante la vita di una donna se dovesse vivere e completare i suoi anni fertili.",
+  "textNote": "Il numero medio di nati vivi che si verificherebbero durante la vita di una donna se dovesse sopravvivere e completare i suoi anni fertili.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
