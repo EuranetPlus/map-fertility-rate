@@ -1,12 +1,12 @@
 {
   "heading": "Kopējais dzimstības līmenis Eiropā 2021. gadā",
-  "subheading": "Eiropas Savienībā vidēji 27 valstīs: 1,53 dzīvi dzimušie uz vienu sievieti.",
-  "legend1": "Nav pieejami dati",
+  "subheading": "Eiropas Savienības vidējais rādītājs 27 valstīs: 1,53 dzīvi dzimuši bērni uz sievieti.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "uz vienu sievieti",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Vidējais dzīvi dzimušo skaits, kas notiktu sievietes dzīves laikā, ja viņa pārdzīvotu un pabeigtu savus reproduktīvos gadus.",
+  "textNote": "Vidējais jaundzimušo skaits, kas piedzimtu sievietei dzīves laikā, ja viņa nodzīvotu līdz pilngadībai un pabeigtu reproduktīvo vecumu.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Ráta torthúlachta iomlán san Eoraip in 2021",
-  "subheading": "Meán an Aontais Eorpaigh thar 27 dtír: 1.53 breith bheo in aghaidh na mná.",
+  "subheading": "Meán an Aontais Eorpaigh thar 27 tír: 1.53 breith bheo in aghaidh na mná.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "an bhean",
+  "tooltip1": "in aghaidh na mná",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Meánlíon na mbreitheanna beo a tharlódh le linn saolré na mná dá mbeadh sí le maireachtáil agus le críochnú a blianta breithe.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=ga"
+  "textNote": "Meánlíon na mbreitheanna beo a tharlódh le linn shaolré mná dá mairfeadh sí trína blianta breithe linbh agus dá gcríochnódh sí iad.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

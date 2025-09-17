@@ -1,12 +1,12 @@
 {
-  "heading": "Indice synthétique de fécondité en Europe en 2021",
-  "subheading": "Moyenne de l’Union européenne dans 27 pays : 1,53 naissance vivante par femme.",
-  "legend1": "Pas de données disponibles",
+  "heading": "Indice de fécondité total en Europe en 2021",
+  "subheading": "Moyenne de l’Union européenne sur 27 pays : 1,53 naissance vivante par femme.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "par femme",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Nombre moyen de naissances vivantes qui auraient lieu au cours de la vie d'une femme si elle devait vivre et achever ses années de procréation.",
+  "textNote": "Le nombre moyen de naissances vivantes qui se produiraient au cours de la vie d’une femme si elle vivait jusqu’au bout de ses années de procréation.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fr"
 }

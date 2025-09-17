@@ -1,12 +1,12 @@
 {
-  "heading": "A teljes termékenységi ráta Európában 2021-ben",
-  "subheading": "Európai Uniós átlag 27 országban: 1,53 élveszületés jut nőre.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Teljes termékenységi ráta Európában 2021-ben",
+  "subheading": "Az Európai Unió átlaga 27 országban: 1,53 élveszületés nőnként.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "nőnként",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az élveszületések átlagos száma, amely egy nő élete során bekövetkezne, ha túlélné és befejezné gyermekvállalási éveit.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az élveszületések átlagos száma egy nő élete során, ha elérné és teljesítené a szülőképes éveit.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Celková miera pôrodnosti v Európe v roku 2021",
+  "heading": "Celková miera plodnosti v Európe v roku 2021",
   "subheading": "Priemer Európskej únie v 27 krajinách: 1,53 živonarodených detí na ženu.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "na ženu",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Priemerný počet živonarodených detí, ku ktorým by došlo počas života ženy, ak by prežila a dokončila svoj plodný rok.",
+  "textNote": "Priemerný počet živonarodených detí, ktoré by sa u ženy vyskytli počas jej života, ak by sa dožila a dokončila svoj plodný vek.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=sk"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

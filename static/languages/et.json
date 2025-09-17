@@ -1,12 +1,12 @@
 {
-  "heading": "Summaarne sündimuskordaja Euroopas 2021. aastal",
+  "heading": "Kogusündimuskordaja Euroopas 2021. aastal",
   "subheading": "Euroopa Liidu keskmine 27 riigis: 1,53 elussündi naise kohta.",
-  "legend1": "Andmed puuduvad",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "naise kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Keskmine elussündide arv, mis sünniks naise eluajal, kui ta elaks üle ja lõpetaks oma sünnitusaastad.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Keskmine elussündide arv, mis naise eluea jooksul toimuks, kui ta elaks lõpuni ja lõpetaks oma sünnitusea.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

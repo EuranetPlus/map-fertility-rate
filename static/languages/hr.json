@@ -1,12 +1,12 @@
 {
-  "heading": "Ukupna stopa fertiliteta u Europi 2021",
-  "subheading": "Prosjek Europske unije u 27 zemalja: 1,53 živorođenih po ženi.",
+  "heading": "Ukupna stopa fertiliteta u Europi 2021. godine",
+  "subheading": "Prosjek Europske unije u 27 zemalja: 1,53 živorođene djece po ženi.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "po ženi",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Prosječan broj živorođene djece koji bi se dogodio tijekom života žene ako bi doživjela i dovršila godine rađanja.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Prosječan broj živorođene djece koji bi se dogodili tijekom života žene ako bi preživjela i završila svoje rađajuće godine.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Współczynnik dzietności ogółem w Europie w 2021 r",
-  "subheading": "Średnia w Unii Europejskiej w 27 krajach: 1,53 żywych urodzeń na kobietę.",
+  "heading": "Całkowity współczynnik dzietności w Europie w 2021 r.",
+  "subheading": "Średnia w 27 krajach Unii Europejskiej: 1,53 żywego urodzenia na kobietę.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "na kobietę",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Średnia liczba żywych urodzeń, która miałaby miejsce w ciągu życia kobiety, gdyby miała dożyć i dokończyć okres rozrodczy.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Średnia liczba żywych urodzeń, jaka miałaby miejsce w życiu kobiety, gdyby dożyła ona wieku rozrodczego.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

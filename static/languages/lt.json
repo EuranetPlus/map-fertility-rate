@@ -1,12 +1,12 @@
 {
-  "heading": "Bendras gimstamumo rodiklis Europoje 2021 m",
-  "subheading": "Europos Sąjungos vidurkis 27 šalyse: vienai moteriai tenka 1,53 gyvo gimimo.",
+  "heading": "Bendras vaisingumo rodiklis Europoje 2021 m.",
+  "subheading": "Europos Sąjungos vidurkis 27 šalyse: 1,53 gyvo gimimo vienai moteriai.",
   "legend1": "Nėra duomenų",
   "tooltip1": "vienai moteriai",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Vidutinis gyvų gimimų skaičius per visą moters gyvenimą, jei ji išgyventų ir baigtų vaisingumą.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Vidutinis gyvų gimimų skaičius per moters gyvenimą, jei ji sulauktų visų vaisingo amžiaus ir užbaigtų gimdymo metus.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

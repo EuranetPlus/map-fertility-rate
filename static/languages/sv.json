@@ -1,12 +1,12 @@
 {
-  "heading": "Total fertilitet i Europa 2021",
-  "subheading": "Europeiska unionens genomsnitt i 27 länder: 1,53 levande födda barn per kvinna.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Total fertilitetsgrad i Europa år 2021",
+  "subheading": "Genomsnittet för Europeiska unionen i 27 länder: 1,53 levande födslar per kvinna.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "per kvinna",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Det genomsnittliga antalet levande födslar som skulle inträffa under en kvinnas livstid om hon skulle genomleva och fullborda sina fertilitetsår.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Det genomsnittliga antalet levande födslar som skulle inträffa under en kvinnas livstid om hon skulle leva igenom och fullborda sina fertila år.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

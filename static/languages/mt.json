@@ -1,12 +1,12 @@
 {
-  "heading": "Rata totali tal-fertilità fl-Ewropa fl-2021",
-  "subheading": "Medja tal-Unjoni Ewropea fis-27 pajjiż: 1.53 twelid ħaj għal kull mara.",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Ir-rata totali tal-fertilità fl-Ewropa fl-2021",
+  "subheading": "Il-medja tal-Unjoni Ewropea f'27 pajjiż: 1.53 twelid ħaj għal kull mara.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "għal kull mara",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "In-numru medju ta' twelid ħaj li jseħħ matul il-ħajja ta' mara li kieku kellha tgħix u titlesta s-snin ta' tqala tagħha.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "L-għadd medju ta' twelid ħaj li jseħħu matul ħajjet mara kieku kellha tgħix u tlesti s-snin tat-twelid tagħha.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Kokonaishedelmällisyysluku Euroopassa vuonna 2021",
-  "subheading": "Euroopan unionin keskiarvo 27 maassa: 1,53 elävänä syntynyttä naista kohti.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Euroopan unionin keskiarvo 27 maassa: 1,53 elävänä syntynyttä naista kohden.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "naista kohden",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Keskimääräinen elävänä syntyneiden määrä, joka syntyisi naisen elinaikana, jos hän eläisi ja täytti synnytysvuotensa.",
+  "textNote": "Naisen elinaikana syntyneiden keskimääräinen määrä, jos hän eläisi loppuun asti ja täyttäisi hedelmällisessä ikänsä.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fi"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

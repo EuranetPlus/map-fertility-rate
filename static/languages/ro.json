@@ -1,12 +1,12 @@
 {
-  "heading": "Rata totală a fertilităţii în Europa în 2021",
-  "subheading": "Media Uniunii Europene în 27 de țări: 1,53 născuți vii per femeie.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "pe femeie",
+  "heading": "Rata totală a fertilității în Europa în 2021",
+  "subheading": "Media Uniunii Europene în 27 de țări: 1,53 nașteri vii per femeie.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "per femeie",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Numărul mediu de născuți vii care ar avea loc în timpul vieții unei femei dacă ea ar trăi și își împlinește anii fertil.",
+  "textNoteDescription": "Nota",
+  "textNote": "Numărul mediu de nașteri vii care ar avea loc în timpul vieții unei femei dacă aceasta ar trăi și și-ar finaliza anii fertili.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=ro"
 }
