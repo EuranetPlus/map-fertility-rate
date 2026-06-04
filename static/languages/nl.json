@@ -1,12 +1,12 @@
 {
-  "heading": "Totaal vruchtbaarheidscijfer in Europa in 2023",
-  "subheading": "Gemiddelde van de Europese Unie over 27 landen: 1,38 levendgeborenen per vrouw. Een daling van 9,8% ten opzichte van 2021.",
+  "heading": "Het totale vruchtbaarheidscijfer in Europa in 2024",
+  "subheading": "Het gemiddelde in de Europese Unie (27 landen) is 1,34 levendgeborenen per vrouw. Dat is een daling van 12,4% ten opzichte van 2021.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "per vrouw",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Het gemiddelde aantal levendgeborenen dat zou plaatsvinden tijdens het leven van een vrouw als zij de vruchtbare jaren zou halen en voltooien.",
+  "textNote": "Het gemiddelde aantal levendgeborenen dat zou plaatsvinden gedurende het leven van een vrouw, als zij haar vruchtbare jaren zou doorlopen en voltooien.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

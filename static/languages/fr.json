@@ -1,12 +1,12 @@
 {
-  "heading": "Indice synthétique de fécondité en Europe en 2023",
-  "subheading": "Moyenne de l'Union européenne sur 27 pays : 1,38 naissance vivante par femme. Une baisse de 9,8 % par rapport à 2021.",
+  "heading": "Taux de fécondité total en Europe en 2024",
+  "subheading": "Moyenne dans l'Union européenne (27 pays) : 1,34 naissance vivante par femme. Soit une baisse de 12,4 % par rapport à 2021.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "par femme",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Le nombre moyen de naissances vivantes qui se produiraient au cours de la vie d’une femme si elle vivait jusqu’au bout de ses années de procréation.",
+  "textNote": "Le nombre moyen de naissances vivantes qui surviendraient au cours de la vie d'une femme si elle vivait jusqu'au bout de ses années de procréation.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=fr"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

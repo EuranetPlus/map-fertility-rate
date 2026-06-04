@@ -1,12 +1,12 @@
 {
-  "heading": "Gesamtfruchtbarkeitsrate in Europa im Jahr 2023",
-  "subheading": "Durchschnitt der 27 Länder der Europäischen Union: 1,38 Lebendgeburten pro Frau. Ein Rückgang von 9,8 % im Vergleich zu 2021.",
+  "heading": "Gesamtfruchtbarkeitsrate in Europa im Jahr 2024",
+  "subheading": "Durchschnitt in der Europäischen Union über 27 Länder: 1,34 Lebendgeburten pro Frau. Ein Rückgang von 12,4 % im Vergleich zu 2021.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "pro Frau",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die durchschnittliche Anzahl an Lebendgeburten, die im Laufe des Lebens einer Frau stattfinden würden, wenn sie ihre gebärfähigen Jahre durchlebt und vollendet.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Die durchschnittliche Anzahl an Lebendgeburten, die während des Lebens einer Frau eintreten würden, wenn sie ihre gebärfähigen Jahre erleben und vollenden würde.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Tasso di fertilità totale in Europa nel 2023",
-  "subheading": "Media dell'Unione Europea su 27 Paesi: 1,38 nati vivi per donna. Un calo del 9,8% rispetto al 2021.",
+  "heading": "Tasso di fecondità totale in Europa nel 2024",
+  "subheading": "Media dell'Unione Europea in 27 paesi: 1,34 nati vivi per donna. Un calo del 12,4% rispetto al 2021.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "per donna",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Numero medio di nascite che si verificherebbero nel corso della vita di una donna se questa riuscisse a sopravvivere e a completare gli anni fertili.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=it"
+  "textNote": "Il numero medio di nascite che una donna avrebbe nell'arco della sua vita, qualora vivesse e completasse il suo periodo fertile.",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en"
 }
